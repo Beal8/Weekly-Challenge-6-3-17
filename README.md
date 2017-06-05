@@ -4,7 +4,7 @@ This repo is for the week of June 4th 2017.
 
 Hello Coders! This is our first weekly challenge and we are extremely excited to see you here taking part in this challenge! Best of luck to everyone involved!
 
--Subscribe to the channel to become eligible!
+-Subscribe to the channel to become eligible!\n
 -Submit by 11:59PM EST this Saturday! (June 10, 2017)
 
 [COMPETITION IS OPEN]
